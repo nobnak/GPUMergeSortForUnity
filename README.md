@@ -1,6 +1,6 @@
 # GPU Merge Sort for Unity
 ## Usage
-'''csharp
+```csharp
 BitonicMergeSort _sort;
 ComputeBuffer _keys, _values;
 
@@ -33,4 +33,4 @@ void OnDestroy() {
 	 if (_values != null)
 	  _values.Dispose();
 }
-'''
+```
