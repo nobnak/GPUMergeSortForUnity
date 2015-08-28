@@ -30,7 +30,6 @@ _sort.Sort(_keys, _values);
 ### Output
 ```csharp
 _keys.GetData(key_data);
-
 for (var i = 0; i < count; i++)
   Debug.Log(value_data[key_data[i]]);
 ```
