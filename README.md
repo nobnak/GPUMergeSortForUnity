@@ -48,5 +48,5 @@ void OnDestroy() {
 
 ## References
  1. [Gist mre/bitonic_sort.cu](https://gist.github.com/mre/1392067)
- 2. [GPU Gems 2](https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter46.html)
- 3. [Wikipedia](https://en.wikipedia.org/wiki/Bitonic_sorter)
+ 2. [Chapter 46. Improved GPU Sorting - GPU Gems 2](https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter46.html)
+ 3. [Bitonic sorter - Wikipedia](https://en.wikipedia.org/wiki/Bitonic_sorter)
