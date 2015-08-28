@@ -45,3 +45,8 @@ void OnDestroy() {
 	  _values.Dispose();
 }
 ```
+
+## References
+ 1. [Gist mre/bitonic_sort.cu](https://gist.github.com/mre/1392067)
+ 2. [GPU Gems 2](https://developer.nvidia.com/gpugems/GPUGems2/gpugems2_chapter46.html)
+ 3. [Wikipedia](https://en.wikipedia.org/wiki/Bitonic_sorter)
