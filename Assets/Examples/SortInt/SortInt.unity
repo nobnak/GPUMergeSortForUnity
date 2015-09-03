@@ -157,7 +157,7 @@ GameObject:
   - 4: {fileID: 663472766}
   - 114: {fileID: 663472765}
   m_Layer: 0
-  m_Name: First
+  m_Name: SortInt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -171,12 +171,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 663472764}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5931a32d093f5e34aaf1a8a8825a827e, type: 3}
+  m_Script: {fileID: 11500000, guid: 5efe2ec8258092c48a60be8a400b4936, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   compute: {fileID: 7200000, guid: 5571ac2ec9cc23e498e329945fdfa8e9, type: 3}
   powOfSize: 18
-  seed: 1
+  seed: 2
 --- !u!4 &663472766
 Transform:
   m_ObjectHideFlags: 0
